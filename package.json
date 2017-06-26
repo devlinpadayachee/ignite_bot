@@ -1,0 +1,26 @@
+{
+  "name": "ignite_bot",
+  "version": "0.0.1",
+  "description": "Ignite All Knowing AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devlinpadayachee/ignite_bot.git"
+  },
+  "keywords": [
+    "ignite",
+    "bot",
+    "slack",
+    "faqs",
+    "product"
+  ],
+  "author": "Devlin Padayachee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devlinpadayachee/ignite_bot/issues"
+  },
+  "homepage": "https://github.com/devlinpadayachee/ignite_bot#readme"
+}
