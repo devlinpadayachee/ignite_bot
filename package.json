@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/devlinpadayachee/ignite_bot/issues"
   },
-  "homepage": "https://github.com/devlinpadayachee/ignite_bot#readme"
+  "homepage": "https://github.com/devlinpadayachee/ignite_bot#readme",
+  "dependencies": {
+    "slackbots": "^1.0.2",
+    "sqlite3": "^3.1.8"
+  }
 }
